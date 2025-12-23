@@ -31,5 +31,5 @@ In addition, I am exploring various areas of **Artificial Intelligence**, such a
 
 ## 📫 Contact
 
-- 🌐 GitHub: https://github.com/dinhqhuy7  
+- 🌐 GitHub CV: https://dinhqhuy7.github.io
 - 📧 Email: huy.dinhq7@gmail.com
