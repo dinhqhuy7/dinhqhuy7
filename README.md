@@ -22,10 +22,11 @@ In addition, I am exploring various areas of **Artificial Intelligence**, such a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinhqhuy7&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhqhuy7&layout=compact&theme=tokyonight" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinhqhuy7&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dinhqhuy7&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhqhuy7&layout=compact&theme=tokyonight)
 
 ---
 
