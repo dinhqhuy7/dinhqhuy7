@@ -33,4 +33,4 @@ In addition, I am exploring various areas of **Artificial Intelligence**, such a
 
 - 🌐 GitHub CV: https://dinhqhuy7.github.io
 - 💼 LinkedIn: www.linkedin.com/in/huydinhq7
-- 📧 Email: huy.dinhq7@gmail.com
+- 📧 Email: huy.dinhquoc.it@gmail.com
