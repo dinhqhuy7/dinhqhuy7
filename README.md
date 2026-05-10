@@ -4,12 +4,11 @@
 
 ## 🧑‍💻 About Me
 
-I am currently pursuing a **Bachelor’s degree in Computer Science** at the  
-**University of Information Technology – Vietnam National University, Ho Chi Minh City (UIT – VNUHCM)**.
+I am currently exploring various areas of **Artificial Intelligence**, particularly **Computer Vision** and **Natural Language Processing (NLP)**. My current interests include *Visual Question Answering (VQA), image processing, multimodal learning,* and developing models for *natural language understanding*.
 
-At present, I am focusing on building a solid foundation in **Data Structures and Algorithms**, while developing my **problem-solving skills** and **logical thinking**.
+At the same time, I am strengthening my knowledge of **Data Structures and Algorithms** to improve my **problem-solving abilities**, **logical thinking**, and **algorithm optimization skills**.
 
-In addition, I am exploring various areas of **Artificial Intelligence**, such as *Machine Learning, Deep Learning, Natural Language Processing (NLP), and Computer Vision*.
+In addition, I am also learning **Web Development** to support the building and deployment of AI applications in real-world environments.
 
 ---
 
