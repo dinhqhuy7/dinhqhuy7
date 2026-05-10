@@ -12,22 +12,6 @@ In addition, I am also learning **Web Development** to support the building and 
 
 ---
 
-## 🚀 Skills & Tools
-
-**Languages:** C, C++, Python (learning)  
-**Tools:** VS Code, Git, GitHub (learning)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dinhqhuy7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dinhqhuy7&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Contact
 
 - 🌐 GitHub CV: https://dinhqhuy7.github.io
